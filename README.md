@@ -7,7 +7,7 @@
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
  ![website](https://img.shields.io/badge/website-yellow)
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
- ![GuitaraokeLeader.github.io](https://GuitaraokeLeader/webpage_hit_counter/get_svg_image/517263747.svg)
+ ![GuitaraokeLeader.github.io](https://bestia.dev/webpage_hit_counter/get_svg_image/517263747.svg)
 
 Hashtags: #website
 
